@@ -21,8 +21,8 @@ This is the overall project report, which includes:
 
 [Database creation and filling -- SQL](https://github.com/angelach99/Amazart_Database_Project/blob/main/Amazart_Create_and_Populate.sql)   
 
-[Complete database import file -- SQL](https://github.com/angelach99/Amazart_Database_Project/blob/main/Group15_Complete_Database_Import_File.sql)
+[Complete database import file -- SQL](https://github.com/angelach99/Amazart_Database_Project/blob/main/Group15_Complete_Database_Import_File.sql) <br>
 These two files contain SQL code of database creation and data import.
 
-[ERD -- PDF file](https://github.com/angelach99/Amazart_Database_Project/blob/main/ERD_ArtistMarketplace.pdf)
+[ERD -- PDF file](https://github.com/angelach99/Amazart_Database_Project/blob/main/ERD_ArtistMarketplace.pdf) <br>
 The ER Diagram of the Amazart database.
