@@ -8,6 +8,21 @@ Overall, many small artists are finding recognition and the digital art market i
 The purpose of the AmazArt database is to provide the infrastructure required to support a user-directed and secure marketplace for pieces by both traditional and digital artists. This infrastructure allows both the management of sales and orders, supports an intuitive and user-tailored interface and gives opportunities for its users to interact via different events.
 
 ## Overview
-[Project Report -- PDF file](https://github.com/angelach99/Amazart_Database_Project/blob/main/Project_report.pdf)
+[Project Report -- PDF file](https://github.com/angelach99/Amazart_Database_Project/blob/main/Project_report.pdf) <br>
+This is the overall project report, which includes: 
+- Overview of Business Scenario
+- Website Demo
+- Mission Statement and Objectives
+- ER Diagram
+- Data Dictionary
+- Relational Schema
+- Information on Accessing Database Remotely
+- Queries
 
-[Database creation and filling](https://github.com/angelach99/Amazart_Database_Project/blob/main/Amazart_Create_and_Populate.sql)   
+[Database creation and filling -- SQL](https://github.com/angelach99/Amazart_Database_Project/blob/main/Amazart_Create_and_Populate.sql)   
+
+[Complete database import file -- SQL](https://github.com/angelach99/Amazart_Database_Project/blob/main/Group15_Complete_Database_Import_File.sql)
+These two files contain SQL code of database creation and data import.
+
+[ERD -- PDF file](https://github.com/angelach99/Amazart_Database_Project/blob/main/ERD_ArtistMarketplace.pdf)
+The ER Diagram of the Amazart database.
